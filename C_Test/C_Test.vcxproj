@@ -119,6 +119,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="enum.c" />
     <ClCompile Include="file.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>

@@ -5,6 +5,7 @@
 int main()
 {
 	file_main();
+	enum_main();
 	getc(stdin);
 	return 0;
 }
