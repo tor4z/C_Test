@@ -1,5 +1,5 @@
 #ifndef _MAIN_H
-#define _MAIN_
+#define _MAIN_H
 
 void file_main();
 void enum_main();
