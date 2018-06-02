@@ -19,4 +19,5 @@ void enum_main()
 
 	printf("%d\n", r);
 	assert(str[r] == 'e');
+	assert(str[R1] == 'l');
 }
