@@ -4,5 +4,6 @@
 void file_main();
 void enum_main();
 void char_main();
+int function_main();
 
 #endif

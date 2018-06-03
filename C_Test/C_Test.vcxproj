@@ -121,6 +121,7 @@
   <ItemGroup>
     <ClCompile Include="enum.c" />
     <ClCompile Include="file.c" />
+    <ClCompile Include="function_point.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="what_char.c" />
   </ItemGroup>
